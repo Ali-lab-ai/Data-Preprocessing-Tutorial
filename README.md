@@ -1,4 +1,6 @@
 Data Preprocessing for Neural Networks - Credit Card Default Dataset
+
+
 This repository contains a step-by-step tutorial on data preprocessing for beginners, using the "Default of Credit Card Clients" dataset. The goal of this project is to prepare the dataset for a binary classification task using a neural network. This tutorial includes detailed explanations and code implementation in a Jupyter notebook format, covering the following preprocessing steps:
 
 Data Loading: Loading the dataset using pandas.
